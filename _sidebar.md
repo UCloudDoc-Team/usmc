@@ -1,24 +1,22 @@
-<div class="sidebar_title icon__uhost"> 云主机 UHost</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
+<div class="sidebar_title icon__uhost"> 服务器迁移中心 USMC</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
 
-* [概览](README.md)
-* 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
-   * [什么是云主机](相对链接)
-   * [功能与优势](相对链接)
-   * [应用场景](相对链接)
-* 计费
-   * [计费模式](相对链接)
-   * [定价表](相对链接)
-   * [配置变更](相对链接)
-   * [续费](相对链接)
-   * [退款](相对链接)
-* 注意事项与使用限制
-   * [注意事项描述](相对链接)
-* 创建第一台云主机
-   * [创建资源](相对链接)
+* [概览](/usmc/README)
+* 产品简介
+    * [什么是USMC](/usmc/introduction/concept)
+    * [产品优势](/usmc/introduction/advantages)
+    * [业务逻辑](/usmc/introduction/logic)
 * 操作指南
-   * [创建](相对链接)
-   * [管理](相对链接)
-* 常见问题
-   * 场景相关
-      * [问题描述](相对链接)
-* [词汇表](_glossary.md)
+    * [迁移前准备](/usmc/guide/pre)
+    * [步骤一 创建迁移计划](/usmc/guide/stepone)
+    * [步骤二 网络迁移（可选）](/usmc/guide/steptwo)
+    * [步骤三 创建迁移任务](/usmc/guide/stepthree)
+    * [步骤四 创建云主机](/usmc/guide/stepfour)
+* 辅助功能
+    * [任务历史记录查询](/usmc/side/history)
+    * [增量同步](/usmc/side/sync)
+    * [文件过滤](/usmc/side/filter)
+    * [更换网段](/usmc/side/subnet)
+    * [预约执行](/usmc/side/cron)
+* [操作系统支持](/usmc/sys)    
+* [FAQ](/usmc/faq)
+
