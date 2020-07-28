@@ -22,6 +22,7 @@ unzip usmc_client_linux_x86_64.zip
 
 在usmc_agent.sh中输入用户的迁移计划 ID（set_id的部分），和 usmc_client_linux_x86_64 文件保存在同一个目录下
 
+```
 #!/bin/bash
 
 # UCloud SMC 迁移计划ID
@@ -59,7 +60,7 @@ else
   echo "usmc agent start failed"
 
 fi
-
+```
 
 
 ./usmc_agent.sh 
