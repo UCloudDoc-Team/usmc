@@ -6,4 +6,4 @@ USMC客户端适用于下列操作系统（持续更新）。
 
 CentOS 6.x/7.x  -- > CentOS 6.10/7.6
 
-Ubuntu 18.x -- > Ubuntu 18.04
+Ubuntu 16/18 -- > Ubuntu 16/18
