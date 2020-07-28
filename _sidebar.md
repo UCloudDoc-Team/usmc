@@ -4,7 +4,6 @@
 * 产品简介
     * [什么是USMC](/usmc/introduction/concept)
     * [产品优势](/usmc/introduction/advantages)
-    * [业务逻辑](/usmc/introduction/logic)
 * 操作指南
     * [迁移前准备](/usmc/guide/pre)
     * [步骤一 创建迁移计划](/usmc/guide/stepone)
