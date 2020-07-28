@@ -1,4 +1,4 @@
-* [概览.](/usmc/README)
+* [概览](/usmc/README)
 * 产品简介
     * [什么是USMC](/usmc/introduction/concept)
     * [产品优势](/usmc/introduction/advantages)
