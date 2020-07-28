@@ -15,7 +15,6 @@
     * [任务历史记录查询](/usmc/side/history)
     * [增量同步](/usmc/side/sync)
     * [文件过滤](/usmc/side/filter)
-    * [更换网段](/usmc/side/subnet)
     * [预约执行](/usmc/side/cron)
 * [操作系统支持](/usmc/sys)    
 * [FAQ](/usmc/faq)
