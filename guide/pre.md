@@ -2,7 +2,7 @@
 
 使用USMC进行服务器的迁移，需要提前进行一些准备工作。
 
--源端需要有外网IP或者与目标有专线互联
+-源端需要有外网出口
 
 -有AliyunECSReadOnlyAccess 和 AliyunVPCReadOnlyAccess 权限的阿里云AKSK(如果是从阿里云往UCloud迁移的话)
 
@@ -16,4 +16,4 @@
 
 ## 注意事项
 
-请查看当前USMC所支持系统是否满足您的需求，具体请查询 支持系统版本
+请查看当前USMC所支持系统是否满足您的需求，具体请查询 操作系统支持(/usmc/sys)
