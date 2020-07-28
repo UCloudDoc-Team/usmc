@@ -29,3 +29,4 @@ ruleFiles.txt文件中存放过滤规则，规则如下：
 | test.txt     | 排除所有名为test.txt的文件                         |
 | testdd       | 排除所有名为testdd的文件或者文件夹                 |
 
+每行一条规则。
