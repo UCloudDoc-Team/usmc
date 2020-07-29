@@ -10,6 +10,8 @@
     * [步骤二 网络迁移（可选）](/usmc/guide/steptwo)
     * [步骤三 创建迁移任务](/usmc/guide/stepthree)
     * [步骤四 创建云主机](/usmc/guide/stepfour)
+* 最佳实践
+    * [如何从阿里云ECS迁移至UCloud快杰云主机](/usmc/practice/alitouhost)
 * 辅助功能
     * [任务历史记录查询](/usmc/side/history)
     * [增量同步](/usmc/side/sync)
