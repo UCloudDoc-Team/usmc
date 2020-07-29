@@ -8,21 +8,21 @@
 
 ## 操作步骤
 
-![](practice001.png)
+![](http://usmc-doc.cn-bj.ufileos.com/practice001.png)
 
 ### 创建迁移计划
 
-![](practice002.png)
+![](http://usmc-doc.cn-bj.ufileos.com/practice002.png)
 
 ### 进行网络迁移
 
 点击 获取网络资源 输入 阿里云拥有ECS/VPC只读权限的账号AKSK
 
-![](practice003.png)
+![](http://usmc-doc.cn-bj.ufileos.com/practice003.png)
 
 选择想要迁移的服务器所在VPC
 
-![](practice003.png)
+![](http://usmc-doc.cn-bj.ufileos.com/practice003.png)
 
 如阿里云ECS所在网段与UCloud公共服务网段冲突，可进行更换后再迁移
 
@@ -52,18 +52,24 @@ set_id=usmc-xxxxxx //修改为迁移计划ID
 
 启动后，状态变更为 agent在线
 
-![](practice006.png)
+![](http://usmc-doc.cn-bj.ufileos.com/practice006.png)
 
 ### 创建迁移任务并启动
 
-![](practice007.png)
+![](http://usmc-doc.cn-bj.ufileos.com/practice007.png)
 
 费用为创建中转机及硬盘费用。
 
 期间可查看迁移进度
 
+![](http://usmc-doc.cn-bj.ufileos.com/practice008.png)
+
+![](http://usmc-doc.cn-bj.ufileos.com/practice009.png)
 
 
+### 创建云主机
 
+![](http://usmc-doc.cn-bj.ufileos.com/practice010.png)
 
+![](http://usmc-doc.cn-bj.ufileos.com/practice011.png)
 
