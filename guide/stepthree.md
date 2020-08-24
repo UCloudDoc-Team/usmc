@@ -73,7 +73,9 @@ fi
 
 点击 创建迁移任务
 
-![](http://usmc-doc.cn-bj.ufileos.com/stepthree005.png)
+![](http://usmc-doc.cn-bj.ufileos.com/stepThree005.new.png)
+
+CPU平台：默认为Intel/Cascadelake, 用户可根据需要调整为AMD平台。 
 
 传输限速：1-300Mbps 根据用户源端网络情况，用户可使用限速保证自身网络不会因为usmc的使用而被影响，不填默认100Mbps按流量计费。
 
