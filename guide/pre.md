@@ -18,4 +18,4 @@
 
 - 如果源主机上部署有数据库(MySQL\PostGre\MongoDB\Redis等)， 建议使用UDTS先迁移数据库。
 
-请查看当前USMC所支持系统是否满足您的需求，具体请查询 [操作系统支持](/usmc/sys)
+请查看当前USMC所支持系统是否满足您的需求，具体请查询 [操作系统支持](/usmc/introduction/sys)
