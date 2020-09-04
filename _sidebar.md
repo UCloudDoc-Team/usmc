@@ -5,6 +5,7 @@
     * [什么是USMC](/usmc/introduction/concept)
     * [产品优势](/usmc/introduction/advantages)
     * [支持场景](/usmc/introduction/sys)
+    * [功能限制](/usmc/introduction/limitation)
 * 操作指南
     * [迁移前准备](/usmc/guide/pre)
     * [步骤一 创建迁移计划](/usmc/guide/stepone)
