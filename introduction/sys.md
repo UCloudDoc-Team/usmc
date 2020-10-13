@@ -19,6 +19,7 @@ USMC客户端适用于下列操作系统。
 | --- | --- | --- | --- |
 | CentOS 6.x | x86_64 | CentOS 6.10 | x86_64 |
 | CentOS 7.x | x86_64 | CentOS 7.6 | x86_64 |
+| CentOS 8.x | x86_64 | CentOS 8.0 | x86_64 |
 | Ubuntu 14.04 | x86_64 | Ubuntu 14.04 | x86_64 |
 | Ubuntu 16.04 | x86_64 | Ubuntu 16.04 | x86_64 |
 | Ubuntu 18.04 | x86_64 | Ubuntu 18.04 | x86_64 | 
