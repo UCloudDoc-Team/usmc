@@ -2,11 +2,17 @@
 
 使用USMC进行服务器的迁移，需要提前进行一些准备工作。
 
-- 源端需要有外网出口
-- 需要开启 UCloud EIP 流量计费权限位
-- 如果源是阿里云，则需要有AliyunECSReadOnlyAccess 和 AliyunVPCReadOnlyAccess 权限的阿里云AKSK
+## 源权限
+如果源是阿里云，则需要有AliyunECSReadOnlyAccess 和 AliyunVPCReadOnlyAccess 权限的阿里云AKSK
 
-## 注意事项
+## 目标权限
+如果选择通过外网迁移服务器，需要开启 UCloud EIP 流量计费权限位
 
+## 源与目标网络连接
+USMC 既支持通过外网迁移服务器， 也支持通过内网（专线）迁移服务器。 
+- 如果选择外网方式， 源端需要有外网出口。 
+- 如果选择内网（包括专线）方式， 源与目的端UCloud VPC需要网络互通。 
+
+# 注意事项
 - 如果多批次迁移到同一目标VPC，请使用同一个迁移计划
 - 如果您还没有阅读USMC产品简介中的“支持场景”章节， 请首先阅读[支持场景](/usmc/introduction/sys)
