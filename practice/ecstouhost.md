@@ -38,16 +38,22 @@ unzip UCloud_Server_Migration_Agent.zip
 unzip usmc_client_linux_x86_64.zip
 ```
 
-配置启动脚本并启动
+配置参数并启动脚本
 
-在usmc_agent.sh中输入用户的迁移计划 ID（set_id的部分），和 usmc_client_linux_x86_64 文件保存在同一个目录下
-
-```
-set_id=usmc-xxxxxx //修改为迁移计划ID
-```
+在agent_config.conf中输入用户的迁移计划 ID（set_id的部分）
 
 ```
-./usmc_agent.sh
+# USMC agent 配置文件
+# 迁移计划ID，请修改下面值
+setID=usmc-xxxx
+
+# 如果是通过专线迁移，设置正确的地域(cn-bj2, cn-sh2, cn-gd)
+#region=cn-bj2
+
+```
+
+```
+./start_usmc_agent.sh
 ```
 
 启动后，状态变更为 agent在线
