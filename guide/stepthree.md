@@ -31,7 +31,7 @@ setID=usmc-xxxx
 #region=cn-bj2
 ```
 
-./usmc_agent.sh 
+./start_usmc_agent.sh 
 
 > 注意：启动脚本的账号需要有访问所有迁移文件的权限， 建议使用有root权限的账号。
 
