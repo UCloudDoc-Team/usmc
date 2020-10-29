@@ -4,17 +4,18 @@
 
 具体使用方式：
 
-1 修改agent启动脚本，usmc_agent.sh
+1 在 agent_config.conf 文件中 设置 excludeRulesFile 变量
 
 ```
-setId=usmc-yeryrs1z
+# USMC agent 配置文件
+# 迁移计划ID，请修改下面值
+setID=usmc-xxxx
 
-excludeFile="/root/exclude/ruleFiles.txt"
+# 如果是通过内网（专线）迁移，请设置正确的地域(cn-bj2, cn-sh2, cn-gd)
+#region=cn-bj2
 
-nohup ./usmc_client_linux_x86_64 \
--setID=${set_id} -excludeRulesFile=${excludeFile} \
->> usmc_agent_log.txt 2>&1 &
-
+# 文件过滤
+excludeRulesFile="/root/exclude/ruleFiles.txt"
 ```
 
 ruleFiles.txt文件中存放过滤规则，规则如下：
