@@ -4,7 +4,7 @@
 
 - 如果通过外网迁移，阿里云ECS需要有外网出口
 - 如果要迁移网络，需要有AliyunECSReadOnlyAccess 和 AliyunVPCReadOnlyAccess 权限的阿里云AKSK
-- 确认源端系统版本及磁盘大小在USMC支持范围中
+- 确认源端[系统版本](/usmc/introduction/sys)及[磁盘大小](/usmc/introduction/limitation)在USMC支持范围中
 
 ## 操作步骤
 
