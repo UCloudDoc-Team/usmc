@@ -1,20 +1,34 @@
-#### 1 问: USMC是否为收费产品？
-
-USMC当前在公测阶段，所产生的费用主要是迁移过程中，创建中转机和最终创建云主机的费用（含网络）。产品自身并不收取额外费用。
-
-#### 2 问: USMC当前能迁移的类型？
-
-USMC当前主要是支持物理机，虚拟化云主机往快杰云主机迁移类型。其他服务器的迁移类型会不断完善。
-
-#### 3 问：是否支持AWS/腾讯云迁移到UCloud?
+#### 1 问：是否支持AWS/腾讯云迁移到UCloud?
 
 支持，创建迁移计划时源选择"IDC"方式。
 
-#### 4 问：阿里云迁移方式和 IDC 迁移方式的区别是什么?
+#### 2 问：阿里云迁移方式和 IDC 迁移方式的区别是什么?
 
 阿里云迁移方式支持网络迁移,包括VPC及子网等。迁移每台机器默认会保留原机器的信息， 如VPC，内网IP等。 而IDC的方式需要自建VPC及子网。
 
-#### 5 问： IDC方式迁移,是否支持指定IP?
+#### 3 问： IDC方式迁移,是否支持指定IP?
 
 支持, 在创建子网后, 可以在该子网内指定内网IP创建目标云主机.
 
+#### 4 问： 阿里账号AK如何申请?
+
+控制台以阿里旧版本为例 https://ram.console.aliyun.com/users#/user/list， 分两种情况：
+
+##### 如无用户情况
+- 新建用户
+
+![](http://usmc-doc.cn-bj.ufileos.com/faq/usmc-ali-key1.png)
+
+- 生成AccessKey
+
+![](http://usmc-doc.cn-bj.ufileos.com/faq/usmc-ali-key2.png)
+
+- 用户“授权”
+
+![](http://usmc-doc.cn-bj.ufileos.com/faq/usmc-ali-key4.png)
+
+##### 如有用户情况
+
+进入用户管理创建 AccessKey，再对用户进行“授权”操作。
+
+![](http://usmc-doc.cn-bj.ufileos.com/faq/usmc-ali-key6.png)
