@@ -3,7 +3,7 @@
 使用USMC进行服务器的迁移，需要提前进行一些准备工作。
 
 ## 源权限
-如果源是阿里云，则需要有AliyunECSReadOnlyAccess 和 AliyunVPCReadOnlyAccess 权限的阿里云AKSK
+如果源是阿里云，则需要有AliyunECSReadOnlyAccess 和 AliyunVPCReadOnlyAccess 权限的阿里云AKSK。 如何申请阿里云AKSK， 请参考[文档](/usmc/faq)
 
 ## 目标权限
 如果选择通过外网迁移服务器，需要开启 UCloud EIP 流量计费权限位
