@@ -5,7 +5,6 @@
 - 如果通过外网迁移，阿里云ECS需要有外网出口。为了缩短迁移时间，建议带宽不低于100Mbps， 可临时扩容阿里侧出口带宽或者改为按流量计费模式。
 - 如果要迁移网络，需要有AliyunECSReadOnlyAccess 和 AliyunVPCReadOnlyAccess 权限的阿里云AKSK
 - 确认源端[系统版本](/usmc/introduction/sys)及[磁盘大小](/usmc/introduction/limitation)在USMC支持范围中
-- 
 
 ## 操作步骤
 
