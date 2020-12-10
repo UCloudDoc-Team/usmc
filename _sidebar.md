@@ -1,5 +1,3 @@
-<div class="sidebar_title icon__uhost"> 服务器迁移中心 USMC</div>   <!-- 本行用于添加产品icon、中文名称、英文名称 -->
-
 * [概览](/usmc/README)
 * 产品简介
     * [什么是USMC](/usmc/introduction/concept)
