@@ -12,7 +12,7 @@
 
 ### 创建迁移计划
 
-![](http://usmc-doc.cn-bj.ufileos.com/practice002.png)
+![](http://usmc-doc.cn-bj.ufileos.com/createSet20210126.png)
 
 ### 进行网络迁移
 
@@ -28,9 +28,7 @@
 
 ### 进行Agent上报
 
-登陆ECS
-
-下载压agent并解压
+登陆ECS，下载agent并解压
 ![](http://usmc-doc.cn-bj.ufileos.com/downloadAgent20210126.png)
 
 - 点击右上角的“复制”按钮复制完整下载及解压命令
