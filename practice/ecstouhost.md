@@ -30,29 +30,15 @@
 
 登陆ECS
 
-下载压缩包并解压 地址：http://usmc.cn-bj.ufileos.com/UCloud_Server_Migration_Agent.zip
+下载压agent并解压
+![](http://usmc-doc.cn-bj.ufileos.com/downloadAgent20210126.png)
+
+- 点击右上角的“复制”按钮复制完整下载及解压命令
+- 在待迁移主机上执行（如果待迁移主机无法访问下载源， 请通过可访问的机器中转）完成下载与解压
+- 执行以下命令启动agent
 
 ```
-unzip UCloud_Server_Migration_Agent.zip
-
-unzip usmc_client_linux_x86_64.zip
-```
-
-配置参数并启动脚本
-
-在agent_config.conf中输入用户的迁移计划 ID（set_id的部分）
-
-```
-# USMC agent 配置文件
-# 迁移计划ID，请修改下面值
-setID=usmc-xxxx
-
-# 如果是通过专线迁移，设置正确的地域(cn-bj2, cn-sh2, cn-gd)
-#region=cn-bj2
-
-```
-
-```
+cd usmc-XXXX
 ./start_usmc_agent.sh
 ```
 
