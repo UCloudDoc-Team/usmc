@@ -61,5 +61,12 @@ cd usmc-XXXX
 
 ![](http://usmc-doc.cn-bj.ufileos.com/practice010.png)
 
-![](http://usmc-doc.cn-bj.ufileos.com/practice011.png)
+
+##### 机器ip选择有三种方式
+
+- 1.和源机器ip保持一致
+- 2.手动调整设置
+- 3.在当前vpc中随机获取一个可用ip
+
+![](http://usmc-doc.cn-bj.ufileos.com/practice012.png)
 
