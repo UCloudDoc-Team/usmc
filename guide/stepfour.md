@@ -8,7 +8,13 @@
 
 创建主机
 
-![](http://usmc-doc.cn-bj.ufileos.com/stepfour002.png)
+##### 机器ip选择有三种方式
+
+- 1.和源机器ip保持一致
+- 2.手动调整设置
+- 3.在当前vpc中随机获取一个可用ip
+
+![](http://usmc-doc.cn-bj.ufileos.com/practice012.png)
 
 主机配置和源端服务器保持一致（除源端配置快杰自身不支持，会向上匹配）
 
