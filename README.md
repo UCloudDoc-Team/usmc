@@ -1,7 +1,7 @@
 # 概览
 
 * 产品简介
-    * [什么是USMC](/usmc/introduction/concept)
+    * [什么是USMC.](/usmc/introduction/concept)
     * [产品优势](/usmc/introduction/advantages)
     * [支持场景](/usmc/introduction/sys)
     * [计费说明](/usmc/introduction/fee)
