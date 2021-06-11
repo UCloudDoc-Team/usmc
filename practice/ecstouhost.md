@@ -59,14 +59,13 @@ cd usmc-XXXX
 
 ### 创建云主机
 
-![](http://usmc-doc.cn-bj.ufileos.com/practice010.png)
+#### 机器IP选择有三种方式
 
-
-##### 机器ip选择有三种方式
-
-- 1.和源机器ip保持一致
+- 1.和源机器IP保持一致
 - 2.手动调整设置
-- 3.在当前vpc中随机获取一个可用ip
+- 3.在当前VPC中随机获取一个可用IP
 
 ![](http://usmc-doc.cn-bj.ufileos.com/practice012.png)
+
+![](http://usmc-doc.cn-bj.ufileos.com/practice011.png)
 
