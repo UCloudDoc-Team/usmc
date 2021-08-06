@@ -15,7 +15,7 @@ setID=usmc-xxxx
 #region=cn-bj2
 
 # 文件过滤
-excludeRulesFile="/root/exclude/ruleFiles.txt"
+excludeRulesFile=/root/exclude/ruleFiles.txt
 ```
 
 ruleFiles.txt文件中存放过滤规则，规则如下：
