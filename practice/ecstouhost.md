@@ -54,9 +54,6 @@ cd usmc-XXXX
 
 ![](http://usmc-doc.cn-bj.ufileos.com/practice008.png)
 
-![](http://usmc-doc.cn-bj.ufileos.com/practice009.png)
-
-
 ### 创建云主机
 
 1. 非增量任务会自动创建主机
