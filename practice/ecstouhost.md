@@ -62,3 +62,4 @@ cd usmc-XXXX
 1. 非增量任务会自动创建主机
 2. 增量任务状态为已同步之后，手动点击创建主机
 
+![](http://usmc-doc.cn-bj.ufileos.com/practice014.png)
