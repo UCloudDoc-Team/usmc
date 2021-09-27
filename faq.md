@@ -48,7 +48,7 @@ StartSMCTask- Message:create transmit uhost failed [create uhost instance failed
 
 原因：
 
-新用户没有开启eip 流量计费的权限! 找相关部门开通权限
+新用户没有开启eip 流量计费的权限。联系客户经理找相关部门开通权限
 
 
 #### 7 问: 启动任务报错 prepare check failed grub2 version is too old
@@ -61,7 +61,7 @@ server error [prepare check failed grub2 version is too old: grub2-2.02-0.44.el7
 
 原因:
 
-源机器grub2版本过低，需要升级! 执行以下命令升级!(系统盘根据实际情况替换，举例使用 /dev/vda)
+源机器grub2版本过低，需要升级。 执行以下命令升级(系统盘根据实际情况替换，举例使用 /dev/vda)
 
 ```
 yum update grub2
@@ -79,6 +79,6 @@ create uhost instance failed, code: 8357，errMsg: resource not enough (uhost-hi
 
 原因:
 
-选择的机型配置在当前可用区资源不足，尝试更换机型配置可用区等解决!
+选择的机型配置在当前可用区资源不足，尝试更换机型配置可用区等解决。
 
 
