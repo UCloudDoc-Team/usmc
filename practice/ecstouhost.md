@@ -46,26 +46,17 @@ cd usmc-XXXX
 
 ### 创建迁移任务并启动
 
-![](http://usmc-doc.cn-bj.ufileos.com/practice007.png)
+![](http://usmc-doc.cn-bj.ufileos.com/practice013.png)
 
-费用为创建中转机及硬盘费用。
+费用为创建主机机及硬盘费用。
 
 期间可查看迁移进度
 
 ![](http://usmc-doc.cn-bj.ufileos.com/practice008.png)
 
-![](http://usmc-doc.cn-bj.ufileos.com/practice009.png)
-
-
 ### 创建云主机
 
-#### 机器IP选择有三种方式
+1. 非增量任务会自动创建主机
+2. 增量任务状态为已同步之后，手动点击创建主机
 
-- 1.和源机器IP保持一致
-- 2.手动调整设置
-- 3.在当前VPC中随机获取一个可用IP
-
-![](http://usmc-doc.cn-bj.ufileos.com/practice012.png)
-
-![](http://usmc-doc.cn-bj.ufileos.com/practice011.png)
-
+![](http://usmc-doc.cn-bj.ufileos.com/practice014.png)
