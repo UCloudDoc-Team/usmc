@@ -1,4 +1,4 @@
-<img width="754" alt="image" src="https://github.com/UCloudDoc-Team/usmc/assets/124045035/2deceece-dc46-4c7c-9aa0-2beaa80246c7"># 常见问题
+# 常见问题
 
 ## Linux迁移时怎么过滤文件？
 
