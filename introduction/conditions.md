@@ -28,7 +28,7 @@ USMC暂时只支持迁移x86_64系统，不支持32位以及ARM架构的系统
 |    CentOS 6     |   x86_64   |      No      |        Yes         |    阿里云/华为云     |
 |    CentOS 7     |   x86_64   |      No      |        Yes         | 阿里云/腾讯云/华为云 |
 |    CentOS 8     |   x86_64   |      No      |        Yes         |    阿里云/华为云     |
-| CentOS Stream 8 |   x86_64   |      No      |        Yes         |                      |
+| CentOS Stream 9 |   x86_64   |      No      |        Yes         |                      |
 |    Ubuntu 12    |   x86_64   |      No      |         No         |                      |
 |    Ubuntu 14    |   x86_64   |      No      |         No         |        阿里云        |
 |    Ubuntu 16    |   x86_64   |      No      |        Yes         |    阿里云/华为云     |
