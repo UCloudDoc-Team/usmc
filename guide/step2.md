@@ -1,4 +1,4 @@
-# step2 启动agent
+<img width="1837" height="576" alt="企业微信截图_50815536-ad96-4fe4-9468-618f6fdb687b" src="https://github.com/user-attachments/assets/6389fff5-91e5-4198-a9b6-0bde072ff1af" /># step2 启动agent
 
 ## agent下载地址
 
