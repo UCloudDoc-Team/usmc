@@ -14,7 +14,7 @@
 # 1. 安装必要工具
 [root@10-9-149-196 ~]# yum install wget unzip -y
 # 2. 点击蓝框按钮，复制命令
-[root@10-9-149-196 ~]# wget http://usmc-pre-file.cn-bj.ufileos.com/b6fa9c7b-48fd-4880-a3eb-938774889d6a/UCloud_Server_Migration_Agent_usmc-vtlwsdv6qa7_ff895ecd8216.zip && unzip UCloud_Server_Migration_Agent_usmc-vtlwsdv6qa7_ff895ecd8216.zip
+[root@10-9-149-196 ~]# wget http://usmc-stable-save.cn-wlcb.ufileos.com/79196da7-c193-4494-87a5-275e9226be1e/UCloud_Server_Migration_Agent_usmc-1xlzfzpq0715_797be6f438c4.zip && unzip UCloud_Server_Migration_Agent_usmc-1xlzfzpq0715_797be6f438c4.zip
 # 3. 进入agent目录
 [root@10-9-149-196 ~]# cd usmc-vtlwsdv6qa7/
 # 4. 执行启动脚本，见到如下字样即可
